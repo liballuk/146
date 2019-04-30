@@ -1,1 +1,3 @@
 Test file configuration API submodule
+
+version 2
